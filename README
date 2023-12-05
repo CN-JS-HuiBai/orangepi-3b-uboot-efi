@@ -163,18 +163,19 @@ System BootOrder not found.  Initializing defaults.
 ethernet@fe010000 Waiting for PHY auto negotiation to complete....... done
 
 
-                                                                                     GRUB version 2.06
+                                            GRUB version 2.06
 
- ┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
- │ Red Hat Enterprise Linux (6.6.4-OPI3B-RK3566) 9.3 (Plow)                                                                                                                              │ 
- │*Red Hat Enterprise Linux (6.6.4-381.12.05.el9_3.aarch64) 9.3 (Plow)                                                                                                                   │
- │ Red Hat Enterprise Linux (6.6.4-329.12.04.el9_3.aarch64) 9.3 (Plow)                                                                                                                   │
- │ Red Hat Enterprise Linux (0-rescue-66159261c44d45a592f5d9aa83de195d) 9.2 (Plow)                                                                                                       │
- │ UEFI Firmware Settings                                                                                                                                                                │
- └───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+ ┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+ │ Red Hat Enterprise Linux (6.6.4-OPI3B-RK3566) 9.3 (Plow)                                                          │ 
+ │*Red Hat Enterprise Linux (6.6.4-381.12.05.el9_3.aarch64) 9.3 (Plow)                                               │
+ │ Red Hat Enterprise Linux (6.6.4-329.12.04.el9_3.aarch64) 9.3 (Plow)                                               │
+ │ Red Hat Enterprise Linux (0-rescue-66159261c44d45a592f5d9aa83de195d) 9.2 (Plow)                                   │
+ │ UEFI Firmware Settings                                                                                            │
+ └───────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-      Use the ▲ and ▼ keys to select which entry is highlighted.                                                                                                                     
-      Press enter to boot the selected OS, `e' to edit the commands before booting or `c' for a command-line. ESC to return previous menu.                                           
+ Use the ▲ and ▼ keys to select which entry is highlighted.                                                                                                                     
+ Press enter to boot the selected OS, `e' to edit the commands before booting or `c' for a command-line. ESC to retur
+ n previous menu.                                           
                                                                                                                                                                                           
                                                                                                                                                                                           
 
