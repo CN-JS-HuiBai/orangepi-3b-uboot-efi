@@ -5,6 +5,32 @@
 
 Summary:
 ========
+这里是OrangePi-3B的Uboot仓库，该uboot版本支持EFI启动，您可以直接使用bash build.sh快速构建镜像。
+编译环境如下：
+
+PRETTY_NAME="Ubuntu 22.04.3 LTS"
+
+NAME="Ubuntu"
+
+VERSION_ID="22.04"
+
+VERSION="22.04.3 LTS (Jammy Jellyfish)"
+
+VERSION_CODENAME=jammy
+
+ID=ubuntu
+
+ID_LIKE=debian
+
+HOME_URL="https://www.ubuntu.com/"
+
+SUPPORT_URL="https://help.ubuntu.com/"
+
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+
+UBUNTU_CODENAME=jammy
 
 This directory contains the source code for U-Boot, a boot loader for
 Embedded boards based on PowerPC, ARM, MIPS and several other
